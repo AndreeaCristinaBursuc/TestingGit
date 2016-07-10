@@ -1,1 +1,2 @@
 Hello this is Andreea trying to use git
+New lines for the new branch1
